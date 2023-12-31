@@ -1,10 +1,10 @@
 
 ### 3D World
 
-• The world consists of an ocean that stretches to infinity.
-• You are the captain of a ship and have to roam around this ocean.
-• There are enemy pirate ships that can attack you, and you may attack them as well.
-• You collect treasure chests floating around on the water surface.
+- The world consists of an ocean that stretches to infinity.
+- You are the captain of a ship and have to roam around this ocean.
+- There are enemy pirate ships that can attack you, and you may attack them as well.
+- You collect treasure chests floating around on the water surface.
 
 ### Ships
 • There are 2 kinds of ships - your own ship and the enemy ships.
